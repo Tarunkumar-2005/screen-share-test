@@ -14,6 +14,15 @@ This project is part of a frontend shortlisting screen-sharing task.
 
 ---
 
+
+## 🖼 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📊 Screen Share
+![Screen Share](screenshots/screen-share.png)
+
 ## 🛠 Tech Stack
 
 - React (Vite)
